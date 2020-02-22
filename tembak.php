@@ -3,7 +3,7 @@ date_default_timezone_set('Asia/Jakarta');
 include "function.php";
 echo color("red"," ===========================\n");
 echo color("red","| Auto create Gojek X Redeem voucher |\n");
-echo color("red","| Creator : Calon Sarjana            |\n");
+echo color("red","| Creator : Agus Syahputra            |\n");
 echo "| Version : Premium X pertalite      |\n";
 echo "| Time    :".date('[d-m-Y] [H:i:s]')."   |\n";
 echo " ===========================\n";
